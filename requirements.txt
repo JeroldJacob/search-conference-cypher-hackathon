@@ -1,0 +1,18 @@
+# Core dependencies
+streamlit>=1.28.0
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+sqlmodel>=0.0.8
+httpx>=0.24.0
+
+# YouTube transcript functionality
+youtube-transcript-api>=0.6.0
+
+# Optional performance improvements
+uvloop>=0.17.0; sys_platform != "win32"
+
+# Development and testing (optional)
+pytest>=7.0.0
+black>=23.0.0
+ruff>=0.1.0
