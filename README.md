@@ -1,5 +1,4 @@
-# Tech Search Engine - Proof of Concept
-
+# Tech Search Engine
 A production-ready Streamlit application for searching technology content across multiple sources.
 
 ## Features
